@@ -1,3 +1,5 @@
+![조언 생성 화면](https://user-images.githubusercontent.com/105212882/217567028-95acc308-f283-4191-8895-e57b91730619.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
